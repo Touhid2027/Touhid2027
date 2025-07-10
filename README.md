@@ -20,18 +20,17 @@
 |-----------------------|-----------------------------------------------|
 | **Languages**         | Python, Java, JavaScript, C/C++, ARM Assembly |
 | **ML & CV**           |  PyTorch, OpenCV, YOLOv8/11                   |
-| **Web & APIs**        | React, Node.js, Express, MongoDB, FastAPI     |
+| **Web & APIs**        | React, Node.js, Express, MongoDB, SQL, FastAPI |
 | **Embedded & IoT**    | Raspberry Pi 5/Pico, Arduino, ESP32/STM32     |
-| **DevOps & Others**   | Git, Linux, GitHub Actions                    |
+| **DevOps & Others**   | Git, Linux, GitHub Actions, Huggingface API   |
 
 ---
 
 ## 🏆 Highlights
 - 🚀 **Architected & Led** — Spearheaded a cross‑functional team to build a secure MERN‑based tax‑filing platform with OAuth2, SSL/TLS encryption, and blockchain‑powered audit trails.  
-- 🔍 **Optimized ML Pipelines** — Designed end‑to‑end data ingestion, augmentation, and training workflows for YOLOv5‑based drone weed & pest detection, achieving > 90 % accuracy on validation sets.  
+- 🔍 **Optimized ML Pipelines** — Designed end‑to‑end data ingestion, augmentation, and training workflows for YOLOv8/11‑based drone weed & pest detection.  
 - ⚙️ **Edge Deployment Expert** — Integrated real‑time computer‑vision inference on Raspberry Pi Pico with HC‑SR04 sensor to enable low‑latency obstacle avoidance (< 50 ms), optimized for resource‑constrained hardware.  
 - 🛠️ **VLSI Design Specialist** — Proficient in Cadence Virtuoso for IC layout and schematic entry, with hands‑on experience in transistor‑level circuit design and verification.  
-- 💼 **Data‑Driven Sales Growth** — Leveraged analytics and CRM tools as a Sales Executive at North West Overseas to increase client onboarding efficiency.
 
 ---
 
